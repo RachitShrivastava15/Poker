@@ -1,0 +1,15 @@
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/bin/Debug/net6.0/Poker
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/bin/Debug/net6.0/Poker.deps.json
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/bin/Debug/net6.0/Poker.runtimeconfig.json
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/bin/Debug/net6.0/Poker.dll
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/bin/Debug/net6.0/Poker.pdb
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/obj/Debug/net6.0/Poker.csproj.AssemblyReference.cache
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/obj/Debug/net6.0/Poker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/obj/Debug/net6.0/Poker.AssemblyInfoInputs.cache
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/obj/Debug/net6.0/Poker.AssemblyInfo.cs
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/obj/Debug/net6.0/Poker.csproj.CoreCompileInputs.cache
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/obj/Debug/net6.0/Poker.dll
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/obj/Debug/net6.0/refint/Poker.dll
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/obj/Debug/net6.0/Poker.pdb
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/obj/Debug/net6.0/Poker.genruntimeconfig.cache
+/Users/rachitshrivastava/Desktop/Rachit/Projects/Poker/obj/Debug/net6.0/ref/Poker.dll

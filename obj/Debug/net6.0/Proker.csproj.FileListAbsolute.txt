@@ -1,0 +1,15 @@
+/Users/rachitshrivastava/Projects/Proker/bin/Debug/net6.0/Proker
+/Users/rachitshrivastava/Projects/Proker/bin/Debug/net6.0/Proker.deps.json
+/Users/rachitshrivastava/Projects/Proker/bin/Debug/net6.0/Proker.runtimeconfig.json
+/Users/rachitshrivastava/Projects/Proker/bin/Debug/net6.0/Proker.dll
+/Users/rachitshrivastava/Projects/Proker/bin/Debug/net6.0/Proker.pdb
+/Users/rachitshrivastava/Projects/Proker/obj/Debug/net6.0/Proker.csproj.AssemblyReference.cache
+/Users/rachitshrivastava/Projects/Proker/obj/Debug/net6.0/Proker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachitshrivastava/Projects/Proker/obj/Debug/net6.0/Proker.AssemblyInfoInputs.cache
+/Users/rachitshrivastava/Projects/Proker/obj/Debug/net6.0/Proker.AssemblyInfo.cs
+/Users/rachitshrivastava/Projects/Proker/obj/Debug/net6.0/Proker.csproj.CoreCompileInputs.cache
+/Users/rachitshrivastava/Projects/Proker/obj/Debug/net6.0/Proker.dll
+/Users/rachitshrivastava/Projects/Proker/obj/Debug/net6.0/refint/Proker.dll
+/Users/rachitshrivastava/Projects/Proker/obj/Debug/net6.0/Proker.pdb
+/Users/rachitshrivastava/Projects/Proker/obj/Debug/net6.0/Proker.genruntimeconfig.cache
+/Users/rachitshrivastava/Projects/Proker/obj/Debug/net6.0/ref/Proker.dll
